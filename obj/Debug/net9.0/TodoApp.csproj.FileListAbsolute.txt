@@ -1,0 +1,14 @@
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/bin/Debug/net9.0/TodoApp
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/bin/Debug/net9.0/TodoApp.deps.json
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/bin/Debug/net9.0/TodoApp.runtimeconfig.json
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/bin/Debug/net9.0/TodoApp.dll
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/bin/Debug/net9.0/TodoApp.pdb
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.AssemblyInfoInputs.cache
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.AssemblyInfo.cs
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.csproj.CoreCompileInputs.cache
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.dll
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/refint/TodoApp.dll
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.pdb
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.genruntimeconfig.cache
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/ref/TodoApp.dll
