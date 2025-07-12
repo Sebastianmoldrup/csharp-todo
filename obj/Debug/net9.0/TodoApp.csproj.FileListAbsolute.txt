@@ -12,3 +12,4 @@
 /Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.pdb
 /Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.genruntimeconfig.cache
 /Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/ref/TodoApp.dll
+/Users/sebastianmoldrup/opus/desktop/csharp/TodoApp/obj/Debug/net9.0/TodoApp.sourcelink.json
